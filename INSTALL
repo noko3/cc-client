@@ -1,0 +1,7 @@
+Currently done:
+1. git clone https://github.com/noko3/cc-client.git cc-client
+2. cd cc-client/src
+3. ./build.sh
+4. ./cc-client
+
+Future proposal: CMake
